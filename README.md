@@ -1,6 +1,6 @@
 K-Nearest Neighbors (KNN)
-
 This repository contains a Jupyter Notebook that explains and demonstrates the K-Nearest Neighbors (KNN) algorithm. KNN is one of the simplest and most effective algorithms for solving classification and regression problems in machine learning.
+
 
 Overview
 
@@ -11,6 +11,7 @@ For classification, it assigns the most common label among the neighbors.
 For regression, it averages the values of the neighbors.
 
 The algorithm can also weight neighbors by distance, giving closer points more influence.
+
 
 Key Topics Covered
 
@@ -26,6 +27,7 @@ Difference between KNN and the related K-means clustering algorithm
 
 Practical examples using Python
 
+
 Notebook Highlights
 
 The notebook provides step-by-step explanations along with visual examples to help understand:
@@ -35,6 +37,7 @@ How different distance metrics affect predictions
 How the choice of K impacts model performance
 
 Implementation of KNN for classification and regression tasks
+
 
 Requirements
 
